@@ -33,9 +33,9 @@
 <b>--------------------------分割线-----------------</b>
 
 <b><a name="bizhi">小马壁纸</a></b>
-<p>暂无图片</p>
 
-<b>--------------------------分割线-----------------</b>
+
+![zhi](https://github.com/wind-come/wind-come.github.io/blob/master/image/bizhiget/1.jpg?raw=ture)<b>--------------------------分割线-----------------</b>
 
 <b><a name="maguo">马国女孩</a></b>
 <a href="#mulu">回目录</a>
