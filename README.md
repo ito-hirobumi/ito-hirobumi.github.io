@@ -34,8 +34,7 @@
 
 <b><a name="bizhi">小马壁纸</a></b>
 
-
-![zhi](https://github.com/wind-come/wind-come.github.io/blob/master/image/bizhiget/1.jpg?raw=ture)
+<a href="#mulu">回目录</a>![zhi](https://github.com/wind-come/wind-come.github.io/blob/master/image/bizhiget/1.jpg?raw=ture)
 
 ![zhi](https://github.com/wind-come/wind-come.github.io/blob/master/image/bizhiget/2.jpg?raw=ture)
 
